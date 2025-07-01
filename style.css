@@ -1,0 +1,51 @@
+header img{
+    width: 100px;
+    height: 60px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+div{
+    display: flex;
+    gap: 30px;
+}
+.box2{
+    width: 596px;
+    height: 119px;
+    margin-top: 300px;
+}
+h2{
+    text-align: center;
+}
+.box4{
+    width: 344px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.box3{
+    justify-content: space-around
+}
+.box5{
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+    width: 940;
+height: 857;
+
+
+}
+.box6{
+    width: 436;
+height: 187;
+}
+.box7 img{
+    width: 33px;
+    height: 33px;
+}
+.box7{}
